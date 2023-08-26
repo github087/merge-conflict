@@ -12,5 +12,10 @@ feaature2()
  // feature 2 update
 }
 
+Initial Security()
+{
+ //Sample Code
+}
+
 
 }
